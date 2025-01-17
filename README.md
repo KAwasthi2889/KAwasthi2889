@@ -38,7 +38,7 @@
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://github.com/spf13/cobra" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/spf13/cobra/blob/main/assets/CobraMain.png" alt="cobra" width="40" height="40"/> </a>
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gWNR8L_E-bMX7XTlLtwWvAHaEK%26pid%3DApi&f=1&ipt=88e93abe1775d9727f3c2db3fd08b52ee1388c82934b2ee6c81aec7c106a0396&ipo=images" alt="cobra" width="40" height="40"/> </a>
 </p>
 
 ![Kaustubh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawasthi2889&show_icons=true&count_private=true&hide_title=true)
