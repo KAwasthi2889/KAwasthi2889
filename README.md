@@ -7,16 +7,15 @@
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
-- 💬 Ask me about **C, Python & Go**
+- 💬 Ask me about my **Open Source Contributions** & **Projects**
 
-- 📫 Contact Me on **kaustubh_awasthi@proton.me**
+- 📫 Email Me on **kaustubh_awasthi@proton.me**
 
 - ⚡ Fun fact **I am a Foodie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kawasthi2889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kawasthi2889" height="30" width="40" /></a>
-
 <a href="www.linkedin.com/in/kawasthi2889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh awasthi" height="30" width="40" /></a>
 </p>
 
