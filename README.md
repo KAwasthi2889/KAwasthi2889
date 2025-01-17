@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Awasthi</h1>
 <h3 align="center">A passionate Cloud Native/ DevOps developer from India</h3>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Welcome GIF" width="300"/>
+</p>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=kawasthi2889&label=Profile%20views&color=0e75b6&style=flat" alt="kawasthi2889" /> 
 </p>
