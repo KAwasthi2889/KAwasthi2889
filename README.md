@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Docker & Kubernetes**
 
-- 💬 Ask me about my **Open Source Contributions** & **Projects**
+- 💬 Ask me about **Open Source Ecosystem** & **My Projects**
 
 - 📫 Email Me on **kaustubh_awasthi@proton.me**
 
