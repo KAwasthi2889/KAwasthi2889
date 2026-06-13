@@ -4,24 +4,24 @@
 
 <div align="center">
 
-<!-- ▸ GLITCH HEADER ANIMATION ◂ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003b00,60:00ff41,100:00d4ff&height=220&section=header&text=KAUSTUBH%20AWASTHI&fontSize=42&fontColor=00ff41&animation=fadeIn&fontAlignY=32&desc=%E2%96%B8%20SYSTEMS%20ARCHITECT%20%E2%80%A2%20CLOUD%20ENGINEER%20%E2%80%A2%20DEVOPS%20%E2%96%B8&descAlignY=52&descSize=15&descColor=00d4ff" width="100%"/>
+<!-- ▸ HEADER ANIMATION ◂ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=150&section=header&text=KAUSTUBH%20AWASTHI&fontSize=42&fontColor=ff79c6&animation=fadeIn&fontAlignY=40&desc=%E2%96%B8%20CLOUD%20AND%20DEVOPS%20ENGINEER%20%E2%80%A2%20AUTOMATION%20OBSESSED%20%E2%80%A2%20BUILDING%20IN%20GO%20%E2%96%B8&descAlignY=65&descSize=15&descColor=8be9fd" width="100%"/>
 
 <!-- ▸ TYPING SVG ◂ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%24+whoami+%E2%86%92+Cloud+%26+DevOps+Engineer;%24+cat+mission.txt+%E2%86%92+Building+Scalable+Systems;%24+uptime+%E2%86%92+Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=8be9fd&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=160&lines=%24+whoami+%E2%86%92+Cloud+%26+DevOps+Engineer;%24+cat+focus.txt+%E2%86%92+Automating+Infra+%26+Building+CLI+Tools;%24+.%2Fcurrent_project.sh+%E2%86%92+Evolving+a+DNS+blocker+in+Go;%24+uptime+%E2%86%92+Shipping+Code+%26+Scaling+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ▸ PROFILE BADGES ◂ -->
-<img src="https://komarev.com/ghpvc/?username=kawasthi2889&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=kawasthi2889&label=PROFILE+VIEWS&color=bd93f9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/KAwasthi2889?tab=followers">
-  <img src="https://img.shields.io/github/followers/kawasthi2889?label=FOLLOWERS&color=00d4ff&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00d4ff" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/kawasthi2889?label=FOLLOWERS&color=ff79c6&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ff79c6" alt="Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-DISTRIBUTED%20SYSTEMS-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/FOCUS-BUILDING%20RESILIENT%20SYSTEMS-8be9fd?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
@@ -31,35 +31,30 @@
 <!-- 🖥️ TERMINAL-STYLE ABOUT ME                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   kaustubh@cloudbox:~$ neofetch                                          │
-│                                                                          │
-│        ██╗  ██╗ █████╗                 kaustubh@cloudbox                  │
-│        ██║ ██╔╝██╔══██╗               ─────────────────                  │
-│        █████╔╝ ███████║               OS: Linux x86_64                   │
-│        ██╔═██╗ ██╔══██║               Role: Cloud & DevOps Engineer      │
-│        ██║  ██╗██║  ██║               Shell: bash 5.2                    │
-│        ╚═╝  ╚═╝╚═╝  ╚═╝               Editor: vscode                   │
-│                                        Lang: Go, Python, Bash, YAML     │
-│   ███████████████████████              Infra: Docker, K8s, Terraform     │
-│   ███████████████████████              Cloud: AWS, GCP                   │
-│   ███████████████████████              CI/CD: GitHub Actions, ArgoCD     │
-│   ███████████████████████              Fun Fact: I am a Foodie! 🍕       │
-│                                                                          │
-│   kaustubh@cloudbox:~$ echo $CURRENT_MISSION                             │
-│   > Building scalable distributed systems with microservices             │
-│                                                                          │
-│   kaustubh@cloudbox:~$ echo $LEARNING_NOW                                │
-│   > Advanced Kubernetes Patterns | Infrastructure as Code | SRE          │
-│                                                                          │
-│   kaustubh@cloudbox:~$ █                                                 │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+ kaustubh@cloudbox:~$ neofetch
+
+    _  __    _                 kaustubh@cloudbox
+   | |/ /   / \                -----------------
+   | ' /   / _ \               Role:    Cloud & DevOps Engineer
+   | . \  / ___ \              Builds:  CLI tools & networked systems in Go
+   |_|\_\/_/   \_\             Focus:   Containers, CI/CD, Infrastructure as Code
+                               Editor:  vscode (+ terminal obsessed)
+                               Enjoys:  Clean pipelines & spicy food
+
+ kaustubh@cloudbox:~$ cat /var/log/current_project.log
+ > Building a DNS-level ad/tracker blocker in Go
+ > Documenting its evolution from serving 100 users
+ > to solving real scaling & efficiency problems
+
+ kaustubh@cloudbox:~$ echo $LEARNING_NEXT
+ > Deep-diving into AWS & writing K8s-native tooling with Go
+
+ kaustubh@cloudbox:~$ _
 ```
+
 
 <br/>
 
@@ -71,26 +66,28 @@
 
 ## `⚡ TECH_STACK.yml`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
+
+> Orchestrating infrastructure and writing reliable tooling.
 
 <br/>
 
 <!-- Languages -->
-<img src="https://img.shields.io/badge/LANGUAGES-0d1117?style=for-the-badge&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/LANGUAGES-bd93f9?style=for-the-badge&labelColor=0d1117"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=go,python,bash&theme=dark" alt="Languages"/>
 
 <br/><br/>
 
 <!-- Infrastructure & Cloud -->
-<img src="https://img.shields.io/badge/INFRASTRUCTURE_%26_CLOUD-0d1117?style=for-the-badge&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/INFRASTRUCTURE_%26_CLOUD-8be9fd?style=for-the-badge&labelColor=0d1117"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,gcp&theme=dark" alt="Infrastructure"/>
 
 <br/><br/>
 
 <!-- DevOps & CI/CD -->
-<img src="https://img.shields.io/badge/DEVOPS_%26_CICD-0d1117?style=for-the-badge&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/DEVOPS_%26_CICD-ff79c6?style=for-the-badge&labelColor=0d1117"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=githubactions,prometheus,grafana,ansible&theme=dark" alt="DevOps"/>
 <br/><br/>
@@ -105,7 +102,7 @@
 <br/><br/>
 
 <!-- Tools & OS -->
-<img src="https://img.shields.io/badge/TOOLS_%26_OS-0d1117?style=for-the-badge&logoColor=00ff41"/>
+<img src="https://img.shields.io/badge/TOOLS_%26_OS-bd93f9?style=for-the-badge&labelColor=0d1117"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=linux,git,vscode,nginx&theme=dark" alt="Tools"/>
 
@@ -121,31 +118,33 @@
 
 ## `📊 GITHUB_ANALYTICS.sh`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
+
+> Data doesn't lie. Tracking contributions, commits, and code.
 
 <br/>
 
 <!-- Stats + Streak side by side -->
 <a href="https://github.com/KAwasthi2889">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawasthi2889&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00d4ff&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawasthi2889&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/KAwasthi2889">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kawasthi2889&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00d4ff&currStreakLabel=00ff41&sideLabels=00d4ff&border=00ff41" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kawasthi2889&theme=dracula&background=0d1117&hide_border=true" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
 <!-- Top Languages -->
 <a href="https://github.com/KAwasthi2889">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawasthi2889&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawasthi2889&layout=compact&theme=dracula&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
 <a href="https://github.com/KAwasthi2889">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawasthi2889&bg_color=0d1117&color=00ff41&line=00d4ff&point=ffffff&area_color=00ff41&area=true&hide_border=false&custom_title=⚡%20CONTRIBUTION%20MATRIX&title_color=00ff41&border_color=00ff41" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kawasthi2889&theme=dracula&bg_color=0d1117&hide_border=true&custom_title=⚡%20CONTRIBUTION%20MATRIX" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -160,7 +159,7 @@
 
 ## `🐍 CONTRIBUTION_SNAKE`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
 
 <br/>
 
@@ -169,8 +168,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAwasthi2889/KAwasthi2889/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/KAwasthi2889/KAwasthi2889/output/github-snake-dark.svg" />
 </picture>
-
-> ⚠️ **Note:** The snake animation requires a GitHub Actions workflow to generate. See the workflow file at `.github/workflows/snake.yml` — run it once and the animation will appear!
 
 </div>
 
@@ -184,26 +181,28 @@
 
 ## `🚀 FEATURED_PROJECTS.json`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
+
+> Real problems, real code. Highlighting my best work.
 
 <br/>
 
 <a href="https://github.com/KAwasthi2889/PBlog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=PBlog&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&border_color=00ff41&description_lines_count=2" alt="PBlog"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=PBlog&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="PBlog"/>
 </a>
 &nbsp;
 <a href="https://github.com/KAwasthi2889/Task-Tracker-CLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Task-Tracker-CLI&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&border_color=00ff41&description_lines_count=2" alt="Task Tracker CLI"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Task-Tracker-CLI&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Task Tracker CLI"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/KAwasthi2889/Advent_of_Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Advent_of_Code&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&border_color=00ff41&description_lines_count=2" alt="Advent of Code"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Advent_of_Code&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Advent of Code"/>
 </a>
 &nbsp;
 <a href="https://github.com/KAwasthi2889/GitHub_User_Activity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=GitHub_User_Activity&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&border_color=00ff41&description_lines_count=2" alt="GitHub User Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=GitHub_User_Activity&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="GitHub User Activity"/>
 </a>
 
 </div>
@@ -218,12 +217,14 @@
 
 ## `🏆 ACHIEVEMENTS.log`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
+
+> Milestones unlocked on the learning journey.
 
 <br/>
 
 <a href="https://github.com/KAwasthi2889">
-  <img src="https://github-trophies.vercel.app/?username=KAwasthi2889&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=KAwasthi2889&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </a>
 
 </div>
@@ -238,7 +239,9 @@
 
 ## `🌐 CONNECT.sh`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff79c6&height=2" width="100%">
+
+> Open to collaboration and interesting discussions.
 
 <br/>
 
@@ -275,26 +278,24 @@ kaustubh@cloudbox:~$ cat /etc/social.conf
 <br/>
 
 ```
- ██████╗ ██████╗ ███████╗███╗   ██╗    ████████╗ ██████╗
-██╔═══██╗██╔══██╗██╔════╝████╗  ██║    ╚══██╔══╝██╔═══██╗
-██║   ██║██████╔╝█████╗  ██╔██╗ ██║       ██║   ██║   ██║
-██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║       ██║   ██║   ██║
-╚██████╔╝██║     ███████╗██║ ╚████║       ██║   ╚██████╔╝
- ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝       ╚═╝    ╚═════╝
+  ___  ____  _____ _   _   _____ ___
+ / _ \|  _ \| ____| \ | | |_   _/ _ \
+| | | | |_) |  _| |  \| |   | || | | |
+| |_| |  __/| |___| |\  |   | || |_| |
+ \___/|_|   |_____|_| \_|   |_| \___/
 
- ██████╗ ██████╗ ██╗     ██╗      █████╗ ██████╗
-██╔════╝██╔═══██╗██║     ██║     ██╔══██╗██╔══██╗
-██║     ██║   ██║██║     ██║     ███████║██████╔╝
-██║     ██║   ██║██║     ██║     ██╔══██║██╔══██╗
-╚██████╗╚██████╔╝███████╗███████╗██║  ██║██████╔╝
- ╚═════╝ ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝
+  ____ ___  _     _        _    ____
+ / ___/ _ \| |   | |      / \  | __ )
+| |  | | | | |   | |     / _ \ |  _ \
+| |__| |_| | |___| |___ / ___ \| |_) |
+ \____\___/|_____|_____/_/   \_\____/
 ```
 
-<img src="https://img.shields.io/badge/💡_If_you_liked_my_work,_drop_a_⭐-0d1117?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💡_If_you_liked_my_work,_drop_a_⭐-bd93f9?style=for-the-badge&labelColor=0d1117"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003b00,60:00ff41,100:00d4ff&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0d1117&height=120&section=footer" width="100%"/>
 
 </div>
 
