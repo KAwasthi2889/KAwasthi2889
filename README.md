@@ -187,22 +187,17 @@
 <br/>
 
 <!-- PINNED_PROJECTS_START -->
-<a href="https://github.com/KAwasthi2889/PBlog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=PBlog&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="PBlog"/>
+<a href="https://github.com/KAwasthi2889/Discord_Gateway">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Discord_Gateway&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Discord_Gateway"/>
 </a>
 &nbsp;
-<a href="https://github.com/KAwasthi2889/Task-Tracker-CLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Task-Tracker-CLI&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Task Tracker CLI"/>
+<a href="https://github.com/KAwasthi2889/Fedora-BootLoader-Customization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Fedora-BootLoader-Customization&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Fedora-BootLoader-Customization"/>
 </a>
-
 <br/><br/>
 
-<a href="https://github.com/KAwasthi2889/Advent_of_Code">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Advent_of_Code&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Advent of Code"/>
-</a>
-&nbsp;
-<a href="https://github.com/KAwasthi2889/GitHub_User_Activity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=GitHub_User_Activity&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="GitHub User Activity"/>
+<a href="https://github.com/KAwasthi2889/Sheildblock-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=Sheildblock-website&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="Sheildblock-website"/>
 </a>
 <!-- PINNED_PROJECTS_END -->
 
