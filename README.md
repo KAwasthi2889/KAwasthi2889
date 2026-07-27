@@ -46,8 +46,7 @@
 
  kaustubh@cloudbox:~$ cat /var/log/current_project.log
  > Building a DNS-level ad/tracker blocker in Go
- > Documenting its evolution from serving 100 users
- > to solving real scaling & efficiency problems
+ > Documenting its evolution at each engineering milestone solving real scaling & efficiency problems
 
  kaustubh@cloudbox:~$ echo $LEARNING_NEXT
  > Deep-diving into AWS & writing K8s-native tooling with Go
@@ -187,6 +186,7 @@
 
 <br/>
 
+<!-- PINNED_PROJECTS_START -->
 <a href="https://github.com/KAwasthi2889/PBlog">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=PBlog&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="PBlog"/>
 </a>
@@ -204,6 +204,7 @@
 <a href="https://github.com/KAwasthi2889/GitHub_User_Activity">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawasthi2889&repo=GitHub_User_Activity&theme=dracula&bg_color=0d1117&hide_border=true&description_lines_count=2" alt="GitHub User Activity"/>
 </a>
+<!-- PINNED_PROJECTS_END -->
 
 </div>
 
